@@ -2,9 +2,8 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	
 	<link rel="stylesheet" href="style.css">
-	<title>Alexey</title>
+	<title>Module14</title>
 </head>
 <body>
 	<canvas></canvas>
