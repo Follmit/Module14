@@ -2,9 +2,8 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	
 	<link rel="stylesheet" href="style_another_Info.css">
-	<title>Alex</title>
+	<title>Module14</title>
 </head>
 <body>
 	<canvas></canvas>
